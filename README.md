@@ -1,7 +1,7 @@
 # iPad-KeyPad
  Send keystrokes from an iPad Xcode Playground to Windows/Mac desktops
 
- [Playground](images/screenshot.png)
+ ![Playground Image](images/screenshot.png)
 
 ## Purpose
 Demonstrate use of Swift, SwiftUI, and Network API to send keystrokes across a local network to a computer hosting Vicreo Listener. https://jeffreydavidsz.github.io/VICREO-Listener/
